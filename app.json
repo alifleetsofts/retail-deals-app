@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "RetailDeals",
+    "slug": "retaildeals",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F26522"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.retaildeals.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F26522"
+      },
+      "package": "com.retaildeals.app"
+    }
+  }
+}
